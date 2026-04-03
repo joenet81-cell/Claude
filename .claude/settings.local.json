@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:pisosalemanes.com)",
+      "WebFetch(domain:pisosecheverria.com.ar)",
+      "WebFetch(domain:ceramicasanlorenzo.com.ar)",
+      "WebFetch(domain:www.sheine.com.ar)",
+      "WebFetch(domain:www.navarroache.com)",
+      "WebFetch(domain:www.lanoriaonline.com.ar)",
+      "WebFetch(domain:tienda.grupoanacleto.com.ar)",
+      "WebFetch(domain:www.store409.com.ar)",
+      "WebFetch(domain:pisosecheverria.mercadoshops.com.ar)"
+    ]
+  }
+}
