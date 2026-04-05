@@ -10,7 +10,9 @@
       "WebFetch(domain:www.lanoriaonline.com.ar)",
       "WebFetch(domain:tienda.grupoanacleto.com.ar)",
       "WebFetch(domain:www.store409.com.ar)",
-      "WebFetch(domain:pisosecheverria.mercadoshops.com.ar)"
+      "WebFetch(domain:pisosecheverria.mercadoshops.com.ar)",
+      "Bash(\"/c/Program Files/Google/Chrome/Application/chrome.exe\" --headless --disable-gpu --print-to-pdf=\"c:/Claude/Auditoria-Digital-PisosEcheverria.pdf\" --no-pdf-header-footer --print-to-pdf-no-header \"file:///c:/Claude/auditoria-pisosecheverria.html\")",
+      "Bash(start \"\" \"c:\\\\Claude\\\\Pisos_Echeverria\\\\index.html\")"
     ]
   }
 }
